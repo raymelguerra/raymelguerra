@@ -4,7 +4,11 @@ Welcome to my GitHub profile. I'm a dedicated Systems Engineer, Software Develop
 
 ## About Me
 
-- 🌐 Software developer focused on [Your Favorite Technologies].
+- 🌐 Software developer with a focus on:
+  - Web development
+  - REST API design
+  - Deployment on various infrastructures
+  - Continuous learning of emerging technologies
 - 🚀 Actively contributing to open-source projects.
 - 📚 Lifelong learner, always exploring new technologies and approaches.
 
@@ -27,7 +31,7 @@ Welcome to my GitHub profile. I'm a dedicated Systems Engineer, Software Develop
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raymelguerra&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## Contact
 
