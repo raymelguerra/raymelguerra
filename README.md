@@ -31,7 +31,7 @@ Welcome to my GitHub profile. I'm a dedicated Systems Engineer, Software Develop
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raymelguerra&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raymelguerra&show_icons=true&count_private=true&hide=prs&theme=codeSTACKr)
 
 ## Contact
 
