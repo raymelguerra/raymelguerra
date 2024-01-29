@@ -40,13 +40,6 @@ Welcome to my GitHub profile. I'm a dedicated Systems Engineer, Software Develop
 
 Thanks for visiting my profile! Feel free to explore my projects, and don't hesitate to reach out if you have any questions or collaboration ideas.
 
-
-
-<!-- ACKNOWLEDGMENTS -->
-
-
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymelguerra&show_icons=true&theme=codeSTACKr)
 <!---
 raymelguerra/raymelguerra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
