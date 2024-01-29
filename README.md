@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @raymelguerra
-- 👀 I’m interested in Full stack role
-- 🌱 I’m currently learning Kubernetes and CI CD
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello, I'm Raymel Ramos! 👋
 
-## ⚡ Tecnologias
+Welcome to my GitHub profile. I'm a dedicated Systems Engineer, Software Developer, and Full Stack Enthusiast with a passion for crafting innovative solutions and exploring the depths of technology.
+
+## About Me
+
+- 🌐 Software developer focused on [Your Favorite Technologies].
+- 🚀 Actively contributing to open-source projects.
+- 📚 Lifelong learner, always exploring new technologies and approaches.
+
+## Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -20,6 +24,19 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## Contact
+
+- 📧 Email: raymelguerra@gmail.com
+- 💼 LinkedIn Profile: [Linkedin Profile](https://www.linkedin.com/in/raymel-ramos-guerra-50457a16b/)
+
+Thanks for visiting my profile! Feel free to explore my projects, and don't hesitate to reach out if you have any questions or collaboration ideas.
+
+
 
 <!-- ACKNOWLEDGMENTS -->
 
